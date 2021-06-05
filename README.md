@@ -81,6 +81,8 @@ _Herramientas y frameworks utilizados_
 * [ESlint](https://eslint.org/)
 * [Bootstrap V5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 * [ionicons React](https://react-ionicons.netlify.app/)
+* [Linting](https://www.digitalocean.com/community/tutorials/react-linting-react)
+* [airbnb](https://www.airbnb.com.gt/?_set_bev_on_new_domain=1616733164_ZjNkNjc0M2RkOWJm)
 
 ## Autor ✒️
 
