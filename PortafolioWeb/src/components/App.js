@@ -7,7 +7,7 @@ import Contact from "./Contact/Contact";
 import Personal from "./Personal/personal";
 import Portafolio from "./Portafolio/portafolio";
 import Last from "./Last/Last";
-import "./App.css";
+
 
 
 class App extends Component {
