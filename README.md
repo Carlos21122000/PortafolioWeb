@@ -1,14 +1,11 @@
 # Proyecto #1 Sistemas y Tecnologías Web
 
-_El proyecto consiste en escoger una página web que admire o me guste el diseño y crear una copia idéntica del estilo del sitio_
+_El proyecto consiste en realizar un portafolio con trabajos desarrollados _
 
-_Sitio elegido:_
 
-* [Roli](https://roli.com/)
+_Link de la instacia:_
 
-_Sitio recreado:_
-
-* [Copia de Roli](http://stw-uvg.site:3168/)
+* [Copia de Roli](http://3.143.254.222:200/)
 
 ## Comenzando 🚀
 
@@ -26,14 +23,7 @@ _Contar con el software para la instalacion de dependencias y frameworks:_
 _Contar con el manejador de versiones de preferencia:_
 
 * [Git](https://git-scm.com/) - Git Bash
-* [GitHub Desktop](https://desktop.github.com/) - GUI GitHub Desktop
-* [GitKraken](https://desktop.github.com/) - GUI GitKraken
 
-_Clonar el repositorio del proyecto en su equipo con el siguiente comando:_
-
-```
-git clone https://github.com/eduardorh1312/Proyecto1-SYTW.git
-```
 
 ### Instalación 🔧
 
@@ -87,21 +77,7 @@ _Herramientas y frameworks utilizados_
 * [Bootstrap V5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 * [ionicons React](https://react-ionicons.netlify.app/)
 
-
-## Versionado 📌
-
-Usamos [Git](https://git-scm.com/) para el versionado con Git Bash. Para todas las versiones disponibles, mira los [commits en este repositorio](https://github.com/eduardorh1312/Proyecto1-SYTW/commits/main).
-
 ## Autor ✒️
 
 
-* **Eduardo Ramírez Herrera** - *Desarrollo General* - [eduardorh1312](https://github.com/eduardorh1312) 
-
-## Agradecimientos 🎁
-
-* A Ludwing Cano por la orientación en el desarrollo web y frameworks web 📢
-* A mis compañeros de clase que brindaron orientacion y ayuda con los problemas que se presentaron en el desarrollo del proyecto 🤓. 
-* A mi primo que me presto su computadora para desarrollar el proyecto ya que la mia tuvo problemas 👨‍💻.
-
----
-⌨️ con ❤️ por [eduardorh1312](https://github.com/eduardorh1312)👨‍💻
+* **Carlos Alberto Ráxtum** - *Desarrollo General* 
