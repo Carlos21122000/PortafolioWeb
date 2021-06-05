@@ -7,6 +7,11 @@ _Link de la instacia:_
 
 * [Link](http://3.143.254.222:200/)
 
+_Testings _
+
+![image](https://user-images.githubusercontent.com/53351491/120882023-58c2f180-c592-11eb-884f-4944e90d1747.png)
+
+
 ## Comenzando 🚀
 
 _Para poder instalar este proyecto junto con todas sus dependencias se debe seguir una serie de pasos y tener ciertos frameworks que seran utiles para el funcionamiento del mismo_
